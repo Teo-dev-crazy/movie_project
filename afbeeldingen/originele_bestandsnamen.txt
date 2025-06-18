@@ -8,4 +8,4 @@ movie_poster_07.jpg
 movie_poster_08.jpg
 movie_poster_09.jpg
 movie_poster_10.jpg
-originele_bestandsnamen.txt
+movie_poster_11.txt

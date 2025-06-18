@@ -21,7 +21,6 @@ def hernoem_en_nummer_bestanden(mappad):
         originele_namen.append(origineel)
         print(f"Hernoemd: {origineel} → {nieuwenaam}")
 
-    # Sla originele bestandsnamen op
     met_open = os.path.join(mappad, "originele_bestandsnamen.txt")
     with open(met_open, "w", encoding="utf-8") as f:
         for naam in originele_namen:
